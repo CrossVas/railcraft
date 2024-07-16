@@ -1,1 +1,8 @@
-{}
+{
+  "advancements.railcraft.carts.bed_cart.desc": "침대 카트를 타고있는 도중 잠을 자세요",
+  "advancements.railcraft.carts.bed_cart.name": "기찻길위의 꿈",
+  "advancements.railcraft.carts.jukebox_cart.desc": "주크박스 카트로 레코드를 재생하세요",
+  "advancements.railcraft.carts.jukebox_cart.name": "들썩거리는 음악",
+  "advancements.railcraft.carts.link_carts.desc": "웅크리는걸 잊지 마세요!",
+  "advancements.railcraft.carts.link_carts.name": "카트 연결"
+}

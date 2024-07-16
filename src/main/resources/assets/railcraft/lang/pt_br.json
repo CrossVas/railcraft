@@ -1,1 +1,11 @@
-{}
+{
+  "advancements.railcraft.carts.bed_cart.desc": "Durma enquanto anda no carrinho com cama",
+  "advancements.railcraft.carts.bed_cart.name": "Sonhos nas rodas",
+  "advancements.railcraft.tracks.wooden_track.name": "Idade da Madeira",
+  "block.railcraft.abandoned_locomotive_track": "Trilha de Locomotiva Abandonada",
+  "block.railcraft.any_detector": "Detector de Carrinhos",
+  "block.railcraft.item_loader": "Carregador de Itens",
+  "block.railcraft.item_unloader": "Descarregador de Itens",
+  "block.railcraft.lead_block": "Bloco de Chumbo",
+  "block.railcraft.lead_ore": "Minério de Chumbo"
+}
